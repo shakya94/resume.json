@@ -1,17 +1,17 @@
 {
 	"basics": {
-		"name": "Yash Bijarnia",
+		"name": "Harshit Shakya",
 		"label": "Student",
 		
-		"phone": "9783525503",
-		"website": "yashbijarnia.github.io",
-		"summary": "Hi, I'm Yash. Currently doing B.Tech at IIIT Kota in Computer Science department. My technical skills is frontend and backend development, Intermediate in Compititive Programming, Good at data structures and algorithms. I am well versed in python and some of its libraries",
+		"phone": "7309565645",
+		"website": "studentopedia.github.io",
+		"summary": "Hi, I'm Harshit. Currently doing B.Tech at IIIT Kota in Computer Science department. My technical skills is frontend and backend development, Intermediate in Compititive Programming, Good at data structures and algorithms. I am well versed in python and some of its libraries",
 		"location": {
-			"address": "P-1 Narayan Vihar, behind Swastik Hospital, Ajmer Road, Jaipur",
-			"postalCode": "302020",
-			"city": "Jaipur",
+			"address": "!581/3 Rajendra Nagar Naubausta Kanpur",
+			"postalCode": "208021",
+			"city": "Kanpur",
 			"countryCode": "91",
-			"region": "Rajasthan"
+			"region": "Uttar Pradesh"
 		},
 		"profiles": [
 			{
